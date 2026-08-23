@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceAI",
+  "description": "Sistem Faktur & Laporan Penjualan AI dengan Manajemen Pelanggan, Produk, dan Langganan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
